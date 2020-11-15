@@ -99,71 +99,71 @@ conn.sendMessage(group.gid, "Halo semua!!!", MessageType.extendedText) // say he
 
 }
 //chat
-if (text == 'halo')
+if (text == 'h92737do')
 {
 conn.sendMessage(id, tambahan.halo ,MessageType.text);
 }
-else if (text == 'hai')
+else if (text == '01uwodjqki')
 {
 conn.sendMessage(id, tambahan.hai ,MessageType.text);
 }
-else if (text == 'assalamualaikum')
+else if (text == 'a02i3jdo2kikum')
 {
 conn.sendMessage(id, tambahan.ass ,MessageType.text);
 }
-else if (text == 'bro')
+else if (text == '02014hs02o')
 {
 conn.sendMessage(id, tambahan.bro ,MessageType.text);
 }
-else if (text == 'p')
+else if (text == '2929jsiwkwoq01')
 {
 conn.sendMessage(id, tambahan.p ,MessageType.text);
 }
-else if (text == 'test')
+else if (text == '1992jeijw0t')
 {
   conn.sendMessage(id, tambahan.test, MessageType.text);
 }
-else if (text == 'HALO')
+else if (text == '102kwo106')
 {
 conn.sendMessage(id, tambahan.halo ,MessageType.text);
 }
-else if (text == 'Halo')
+else if (text == '202kkj01')
 {
 conn.sendMessage(id, tambahan.halo ,MessageType.text);
 }
-else if (text == 'Hai')
+else if (text == '19e9si10i')
 {
 conn.sendMessage(id, tambahan.hai ,MessageType.text);
 }
-else if (text == 'Assalamualaikum')
+else if (text == 'As102oe92kaiwo2j')
 {
 conn.sendMessage(id, tambahan.ass ,MessageType.text);
 }
-else if (text == 'Bro')
+else if (text == 'B20wje91h9')
 {
 conn.sendMessage(id, tambahan.bro ,MessageType.text);
 }
-else if (text == 'P')
+else if (text == '81i9qjq0whec2')
 {
 conn.sendMessage(id, tambahan.p ,MessageType.text);
 }
-else if (text == 'Test')
+else if (text == 'T010w020292028ye92')
 {
   conn.sendMessage(id, tambahan.test, MessageType.text);
 }
-else if (text == 'HAI')
+else if (text == '0292js02k01')
 {
 conn.sendMessage(id, tambahan.hai ,MessageType.text);
 }
-else if (text == 'ASSALAMUALAIKUM')
+else if (text == 'AS022slolpqi2M')
 {
 conn.sendMessage(id, tambahan.ass ,MessageType.text);
 }
-else if (text == 'BRO')
+else if (text == '1pp1on2nO')
 {
 conn.sendMessage(id, tambahan.bro ,MessageType.text);
 }
-else if (text == 'TEST')
+else if (text == '92929202steapST')
 {
   conn.sendMessage(id, tambahan.test, MessageType.text);
 }
